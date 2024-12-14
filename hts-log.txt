@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 14 Dec 2024 12:41:29 at https://solo.to/peliserie +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://solo.to/peliserie -O1 "D:\PELIS\PELIS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:48:12	Warning: 	Permanent Redirect for https://solo.to/answers/
+12:48:12	Warning: 	File has moved from https://solo.to/answers/ to https://solo.to/answers
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 5 seconds : 584 links scanned, 582 files written (31385693 bytes overall) [26079163 bytes received at 61362 bytes/sec], 7466141 bytes transferred using HTTP compression in 139 files, ratio 24%, 13.2 requests per connection
+(No errors, 2 warnings, 0 messages)
